@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "login_3",
+    "slug": "login_3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "login_3"
+}
